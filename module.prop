@@ -1,0 +1,6 @@
+id=dss
+name=Disable Second SIM
+version=1.0
+versionCode=10
+author=Pycm
+description=Disable Second SIM. Applicable on roms where this setting is not available
