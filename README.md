@@ -1,5 +1,5 @@
 # Module
-- 2-nd SIM Disabler
+Magisk Module 2-nd SIM Disabler
 
 ## Description
 - Disable second SIM via setprop persist.radio.multisim.config. 
